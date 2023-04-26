@@ -1,5 +1,23 @@
 # Changelog
 
+## [9.4.0](https://www.github.com/nodejs/node-gyp/compare/v9.3.1...v9.4.0) (2023-04-26)
+
+
+### Features
+
+* Upgrade Python linting from flake8 to ruff ([#2815](https://www.github.com/nodejs/node-gyp/issues/2815)) ([fc0ddc6](https://www.github.com/nodejs/node-gyp/commit/fc0ddc6523c62b10e5ca1257500b3ceac01450a7))
+
+
+### Miscellaneous
+
+* get update-gyp.py to work with Python >= v3.5 ([#2826](https://www.github.com/nodejs/node-gyp/issues/2826)) ([337e8e6](https://www.github.com/nodejs/node-gyp/commit/337e8e68209bd2481cbb11dacce61234dc5c9419))
+
+
+### Doc
+
+* docs/README.md add advise about deprecated node-sass ([#2828](https://www.github.com/nodejs/node-gyp/issues/2828)) ([6f3c2d3](https://www.github.com/nodejs/node-gyp/commit/6f3c2d3c6c0de0dbf8c7245f34c2e0b3eea53812))
+* Update README.md ([#2822](https://www.github.com/nodejs/node-gyp/issues/2822)) ([c7927e2](https://www.github.com/nodejs/node-gyp/commit/c7927e228dfde059c93e08c26b54dd8026144583))
+
 ### [9.3.1](https://www.github.com/nodejs/node-gyp/compare/v9.3.0...v9.3.1) (2022-12-16)
 
 
